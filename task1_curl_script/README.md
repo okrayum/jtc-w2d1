@@ -4,7 +4,7 @@ Curl is a command line tool for doing all sorts of URL manipulations and transfe
 
 ## My Approach
 
-To write this script I looked at the example in the curl docs for using POST. Then I checked the docs for the mock API data to get the endpoint.
+To write the scripts I looked at the example in the curl docs for using POST. Then I checked the endpoints for each mock API.
 
 ## Challenges Faced
 
