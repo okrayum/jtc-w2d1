@@ -1,0 +1,1 @@
+curl --data "userId=123&id=123&title=curl scripting assignment&body=this is an interesting assignment so far" https://jsonplaceholder.typicode.com/posts
