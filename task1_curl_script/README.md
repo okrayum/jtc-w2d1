@@ -1,4 +1,4 @@
-# Task 1 Curl Scripting Assignment
+# Task 1: curl Scripting
 
 Curl is a command line tool for doing all sorts of URL manipulations and transfers.
 

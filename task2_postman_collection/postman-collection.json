@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "0be683b4-437e-4927-9d3e-2172b145b552",
+		"name": "task2_test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "28896122"
+	},
+	"item": [
+		{
+			"name": "https://jsonplaceholder.typicode.com/posts",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"userId\": 1995,\r\n    \"id\": 17,\r\n    \"title\": \"task2 POST test with Postman\",\r\n    \"body\": \"this is a test POST with postman on the mock JSONplaceholder API\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://jsonplaceholder.typicode.com/posts"
+			},
+			"response": []
+		}
+	]
+}
