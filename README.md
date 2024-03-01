@@ -1,5 +1,7 @@
 # W2D1-Assignment-FS-S24-Web-Development
 
+## This assignment is due Fri March 8 @ 11:59PM EST
+
 This assignment is designed to reinforce your understanding of making API requests, handling responses, and working with different serialization methods.
 
 ## Part 1: API Testing with curl and Postman

@@ -10,6 +10,10 @@ To start off I opened the Postman desktop App. I created a new collection for an
 
 The only challenge I faced was exporting the collection. I finally figured out that I had to save it first. That makes sense.
 
+## Key Learnings
+
+If you are using an app with a GUI explore all of the options it has for the user. Also that Postman is simple to set up and use.
+
 ## Screenshot
 
 ![Screenshot](task2.png)

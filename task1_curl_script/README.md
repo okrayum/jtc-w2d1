@@ -8,7 +8,11 @@ To write the scripts I looked at the example in the curl docs for using POST. Th
 
 ## Challenges Faced
 
-I couldn't get the script to run at first from the file I created. I tried in powershell, cmd, and VS Code. I then got it to run in cmd and VS Code using the whole script. I looked up getting the script to run in Google and it advised switching to bash in VS Code. That worked for me. I learned curl is simple and easy to use, but to make sure I am using the correct tools on my end to work with it.
+I couldn't get the script to run at first from the file I created. I tried in powershell, cmd, and VS Code. I then got it to run in cmd and VS Code using the whole script. I looked up getting the script to run in Google and it advised switching to bash in VS Code. That worked for me.
+
+## Key Learnings
+
+I learned curl is simple and easy to use, but to make sure I am using the correct tools on my end to work with it.
 
 ## Screenshots
 

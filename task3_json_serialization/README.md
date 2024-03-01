@@ -10,6 +10,10 @@ I created 2 variables. One for the JS object and one for the serialized version.
 
 None.
 
+## Key Learnings
+
+It is very important to learn how JSON serialization/deserialization works because JSON is one of the top formats for data transfer. It's mainly used in web development and API communication.
+
 ## Screentshot
 
 ![Screenshot](task3.png)
